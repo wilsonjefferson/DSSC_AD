@@ -1,4 +1,8 @@
 # A simple binary heap library (and testing tools)
+
+**ATTENTION**: This repo was a forked version of [this](https://github.com/albertocasagrande/AD_bin_heaps) repo, so all information here provided are owned by the [Alberto Casagrande](https://github.com/albertocasagrande).
+
+
 This project is a template for a simple array-implementation of binary 
 heaps in the C-programming language.
 
