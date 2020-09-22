@@ -1,4 +1,8 @@
 # DSSC - Algorithmic Design - Sorting Algorithms
+
+**ATTENTION**: This repo was a forked version of [this](https://github.com/albertocasagrande/AD_sorting) repo, so all information here provided are owned by [Alberto Casagrande](https://github.com/albertocasagrande).
+
+
 This repository contains some code to simplify the implementation and testing of sorting algorithms. The code in this repository natively support insertion sort, quick sort (with and without the select algorithm to identify the pivot), bubble sort, selection sort, and heap sort, but other algorithms can easily be added by editing the main function in the file [main.c](src/main.c).
 
 In order to test the differences in term of execution-time between the sorting algorithms, you need to implement all of them. The insertion sort algorithm must be implemented in the file [insertion_sort.c](src/insertion_sort.c) according to the API defined in [insertion_sort.h](src/insertion_sort.h); the quick sort algorithm in the file [quick_sort.c](src/quick_sort.c) and, so forward, for all the algorithms.
