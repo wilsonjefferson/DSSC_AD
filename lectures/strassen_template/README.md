@@ -1,4 +1,7 @@
 # DSSC - Algorithmic Design - Strassen's Algorithm
+
+**ATTENTION**: This repo was a forked version of [this](https://github.com/albertocasagrande/AD_strassen_template) repo, so all information here provided are owned by [Alberto Casagrande](https://github.com/albertocasagrande) course.
+
 This repository contains some code to simplify the implementation and the testing of the Strassen's algorithm for matrix multiplication.
 
 In order to test the differences in term of execution-time between the naive algorithm and the Strassen's algorithm, you need to implement both the algorithms. The former must be implementated by the function `naive_matrix_multiplication` in the file [matrix.c](matrix.c) and the latter by the function `strassen_matrix_multiplication` in the file [strassen.c](strassen.c).
